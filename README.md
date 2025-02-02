@@ -1,2 +1,2 @@
-# Calling-Jadu
-Calling-Jadu by Avirup Das using HTML,CSS and JS
+# calling-jadoo-main
+ By Avirup using html,CSS and JS
